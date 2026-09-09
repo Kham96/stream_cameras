@@ -1,0 +1,13 @@
+# Runtime / secrets — do not commit
+Log/
+*.log
+auto.crt
+auto.key
+server.crt
+server.key
+*.pem
+
+# Editor / OS junk
+.DS_Store
+*~
+*.swp
